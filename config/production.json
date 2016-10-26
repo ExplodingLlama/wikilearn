@@ -1,7 +1,7 @@
 {
-  "host": "http://wikilearn-explodingllama.rhcloud.com",
+  "host": "http://wikilearn-explodingllama.rhcloud.com/",
   "port": 80,
-  "mongodb": "mongodb://admin:rpYQuFnY7CBH@$OPENSHIFT_MONGODB_DB_HOST:$OPENSHIFT_MONGODB_DB_PORT/",
+  "mongodb": "mongodb://admin:rpYQuFnY7CBH@127.7.205.2:27017/",
   "public": "../public/",
   "auth": {
     "token": {
