@@ -1,5 +1,5 @@
 {
-  "host": "wikilearn-app.feathersjs.com",
+  "host": "http://wikilearn-explodingllama.rhcloud.com",
   "port": 80,
   "mongodb": "mongodb://admin:rpYQuFnY7CBH@$OPENSHIFT_MONGODB_DB_HOST:$OPENSHIFT_MONGODB_DB_PORT/",
   "public": "../public/",
