@@ -1,0 +1,91 @@
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  html, body {
+    font-family: 'Helvetica Neue';
+    font-weight: 400;
+    font-size: 16px;
+    color: #333;
+  }
+
+  .center-text {
+    text-align: center;
+  }
+
+  main {
+    padding: 10px;
+  }
+
+  img.logo {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    margin-bottom: 30px;
+  }
+
+  h2 {
+    font-size: 2em;
+    font-weight: 100;
+  }
+
+  footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 20px;
+  }
+
+  footer p {
+    font-weight: 300;
+    font-size: 1.0em;
+  }
+
+
+  .button {
+      text-decoration: none;
+      padding: 10px 20px;
+      border-radius: 4px;
+      font-family: 'Helvetica Neue';
+      font-weight: 100;
+      font-size: 30px;
+      color: #f6f6f6;
+      background-color: #2599bf;
+      transition: color 0.7s, background-color 0.7s;
+  }
+
+  .button:hover {
+      color: #2599bf;
+      background-color: #f6f6f6;
+  }
+
+  .button1 {
+      position: fixed;
+      left: 60px;
+      top: 10px;
+  }
+
+  .button2 {
+    position: fixed;
+    left: 160px;
+    top: 10px;
+  }
+
+  .heading {
+      padding-top: 100px;
+      padding-left: 150px;
+  }
+
+  .text {
+      display: flex;
+      padding-left: 100px;
+      padding-right: 100px;
+      padding-top: 30px;
+      font-family: 'Helvetica Neue';
+      font-size: 18px;
+      font-weight: 200;
+  }
